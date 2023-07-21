@@ -1,0 +1,28 @@
+.card{
+    background-color: #052010;
+    color: white;
+}
+.card-body{
+    background: #054343;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.border{
+    border-radius: 5px solid green;
+    width: 290px;
+    height: 300px;
+    margin: 5px;
+    background: #074437;
+    position: relative;
+}
+
+.btn2 {
+    position: absolute;
+    margin: 12px;
+    top: 200px;
+    background-color: rgb(5, 85, 61);
+}
+.text-center{
+    padding: 5px;
+}

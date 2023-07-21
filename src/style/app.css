@@ -1,0 +1,29 @@
+
+nav{
+    
+    padding: 10px;
+    display: flex;
+  
+}
+nav .navegacionitem{
+    display: flex; 
+    flex-direction: column;
+    padding: 10px;
+    color: rgb(0, 255, 179);
+    margin: 10px;
+}
+
+.App{
+    background: #054343;
+    color: white;
+
+}
+
+nav .derecha{
+    display: flex;
+    justify-content: end;
+    color:#052010;
+}
+
+    
+
